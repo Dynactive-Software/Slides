@@ -1,5 +1,7 @@
 h1. SlidesJS is no longer maintained
 
+Dynactive Software is currently using this project and until we can evaluate the slick option recommended or move to another library we will keep this fork.
+
 As an alternative check out the awesome "Slick":http://kenwheeler.github.io/slick/ by "Ken Wheeler":http://kenwheeler.github.io/.
 
 
